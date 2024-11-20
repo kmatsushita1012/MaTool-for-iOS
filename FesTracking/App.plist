@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>yOffset</key>
+	<real>4e-05</real>
+	<key>replayDistance</key>
+	<integer>10</integer>
+	<key>formURL</key>
+	<string>https://forms.gle/RJNg5q4Et6AnqUhE6</string>
+	<key>userguideURL</key>
+	<string>https://s3.ap-northeast-1.amazonaws.com/studiomk.documents/userguides/matool.pdf</string>
+	<key>defaultCoordinate</key>
+	<array>
+		<real>34.772716</real>
+		<real>138.014937</real>
+	</array>
+	<key>defaultTown</key>
+	<string>城北町</string>
+	<key>routeURL</key>
+	<string>https://nbw5g4ooz4.execute-api.ap-northeast-1.amazonaws.com/beta</string>
+	<key>infoURL</key>
+	<string>https://q14qwsjtbj.execute-api.ap-northeast-1.amazonaws.com/beta</string>
+	<key>Date</key>
+	<array>
+		<string>10/11</string>
+		<string>10/12</string>
+		<string>10/13</string>
+		<string>10/14</string>
+	</array>
+</dict>
+</plist>

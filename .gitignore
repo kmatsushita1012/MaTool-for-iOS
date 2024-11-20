@@ -13,6 +13,3 @@ DerivedData/
 # CocoaPods
 Pods/
 Podfile.lock
-
-# Ignore all plist files
-*.plist
